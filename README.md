@@ -1,4 +1,4 @@
 # WebGLPractice
 Practicing WebGL
 
-![Cubes](https://github.com/VukAmidzic/WebGLPractice/cubes.jpg)
+![Cubes](https://github.com/VukAmidzic/WebGLPractice/cubes.JPG)
